@@ -1,0 +1,25 @@
+# Fitness Planner: Gym Log
+
+> Free iPhone workout tracker and gym log for strength training. Plan weekly routines, log every set with weight and reps in one tap, rest with an automatic timer shown on the Lock Screen and in the Dynamic Island, and track progress with charts and a training calendar. No account, no ads, no subscription; works offline and keeps all data on the iPhone.
+
+- App Store: https://apps.apple.com/app/id6836265152
+- Platform: iPhone, iOS 17 or later. Price: free, no in-app purchases.
+- Developer: The Van Nguyen. Support: https://ntv317.github.io/fitness-planner/support.html
+
+## Features
+- Weekly plans of training days with your own exercises, sets, rep ranges and weights; any split (full body, upper/lower, push pull legs).
+- Ready-made 3-day full-body sample plan with light starter weights.
+- Plan with AI: answer questions about goal, experience, days per week and equipment; the app writes a prompt for any AI chat app and imports the reply. The app never contacts an AI service itself.
+- Set-by-set logging in one tap, with last session's weight and reps pre-filled.
+- Automatic rest timer (150 s compound, 75 s isolation) with a Live Activity on the Lock Screen and Dynamic Island.
+- Progress: weekly sets, volume and training days; charts for heaviest weight, best reps and estimated one-rep max (1RM); calendar of every workout.
+- Shows the muscles each exercise trains; exercise photos and step-by-step notes; kg or lb.
+
+## Privacy
+- No account, no ads, no tracking, no analytics. Data Not Collected (App Store privacy label).
+- Workouts are stored only on the device. The only outbound link is a YouTube search for an exercise's form.
+
+## Pages
+- [Home](https://ntv317.github.io/fitness-planner/): overview, screenshots, FAQ
+- [Support](https://ntv317.github.io/fitness-planner/support.html)
+- [Privacy Policy](https://ntv317.github.io/fitness-planner/privacy.html)

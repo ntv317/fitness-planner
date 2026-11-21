@@ -52,3 +52,8 @@ footer a { color: var(--muted); }
   h1 { font-size: 28px; }
   header.site nav { gap: 12px; }
 }
+/* Screenshot strip: scrolls sideways on phones, no page-wide horizontal scroll. */
+.shots { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; padding: 4px 0 12px; margin: 0 -16px; padding-inline: 16px; }
+.shots figure { margin: 0; flex: 0 0 200px; scroll-snap-align: start; }
+.shots img { width: 200px; height: auto; border-radius: 18px; display: block; }
+.shots figcaption { color: var(--muted); font-size: 13px; margin-top: 6px; }
